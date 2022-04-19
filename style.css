@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(to right top,cadetblue, lightgreen);
+}
+cadetblue
+#camera{
+    width: 320px;
+    height: 240px;
+    border: 1px solid green;
+}
